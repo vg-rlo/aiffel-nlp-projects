@@ -1,5 +1,5 @@
 # Naver Movie Review Classification
-네이버 영화 리뷰 데이터를 대상으로 여러 토크나이저를 적용해보는 프로젝트 입니다. 해당 프로젝트에 대한 블로그는 ![여기]((https://vg-rlo.tistory.com/entry/Classification-Naver-Movie-Review-Sentiment-Classification-Using-Setencepiece?category=452346))로 들어가면 보실 수 있습니다. 
+네이버 영화 리뷰 데이터를 대상으로 여러 토크나이저를 적용해보는 프로젝트 입니다. 해당 프로젝트에 대한 블로그는 [여기]((https://vg-rlo.tistory.com/entry/Classification-Naver-Movie-Review-Sentiment-Classification-Using-Setencepiece?category=452346))로 들어가면 보실 수 있습니다. 
 
 ## Text Preprocessing using Tokenizer
 * Setencepiece
