@@ -1,8 +1,23 @@
 # News Category Multiclass Classification 
 
-## 오픈 데이터셋 다운로드 
-
-## 설치 라이브러리 
+## 디렉토리 셋팅
+```
+$ mkdir -p ~/aiffel/reuters_classifiaction
+```
+    
+## 오픈 데이터셋 
+* 제공처: Tensorflow keras
+* 데이터명: Reuters News(로이터 뉴스)     
+     
+## 사용 모델 
+* Naive Bayes Classifier
+* Complement Naive Bayes Classifier(CNB)
+* Logistic Regression
+* Support Vector Machine(SVM)
+* Decision Tree 
+* Random Forest
+* GradientBoostingClassifier
+* Voting
 
 ## 프로젝트 결과 
 * 3가지 단어 개수에 대해 8가지 머신러닝 기법을 적용하여 그 중 최적의 accuracy를 도출하였다.
